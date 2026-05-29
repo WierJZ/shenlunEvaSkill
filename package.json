@@ -1,0 +1,35 @@
+{
+  "name": "@wierjz/shenlun-eva",
+  "version": "1.0.0",
+  "description": "申论答案智能评估技能 — 5层串行检查引擎（评分架构师→阅卷顾问→政府实务顾问→机构精析师→教学转化师），支持手写图片上传、全题型评分、失分诊断、3天刻意练习方案",
+  "main": "SKILL.md",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "shenlun",
+    "申论",
+    "essay-evaluation",
+    "chinese-civil-service",
+    "grading"
+  ],
+  "author": "wierjz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WierJZ/shenlunEvaSkill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WierJZ/shenlunEvaSkill/issues"
+  },
+  "homepage": "https://github.com/WierJZ/shenlunEvaSkill#readme",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "references/",
+    "scripts/"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
