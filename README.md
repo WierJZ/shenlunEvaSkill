@@ -12,10 +12,20 @@
 ## 安装
 
 ```bash
-npx @wierjz/shenlun-eva
+npx skills add WierJZ/shenlunEvaSkill
 ```
 
-或通过 Claude Code 插件市场安装。
+也支持完整 GitHub URL：
+
+```bash
+npx skills add https://github.com/WierJZ/shenlunEvaSkill
+```
+
+全局安装（所有项目可用）：
+
+```bash
+npx skills add WierJZ/shenlunEvaSkill --global
+```
 
 ## 使用
 
